@@ -1,5 +1,9 @@
 # meow
 
+
+https://github.com/user-attachments/assets/a6a6fb85-cfd5-4c66-9c13-7e07b1d517d7
+
+
 install mpg123 <br>
 <code> sudo apt install mpg123 </code> <br>
 <br>
