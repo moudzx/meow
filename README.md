@@ -7,4 +7,5 @@ to change the sound:
 move your mp3 file to the same directory, or change the filepath in the code <br><br>
 <code> gcc meow.c -o meow && ./meow </code>
 <br><br>
-stop the program with Ctrl+Z
+press Ctrl+C to meow <br>
+press Ctrl+Z to terminate the program<br>
