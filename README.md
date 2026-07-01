@@ -13,3 +13,8 @@ move your mp3 file to the same directory, or/and change the filepath in the code
 <br><br>
 press Ctrl+C to meow <br>
 press Ctrl+Z to terminate the program<br>
+
+## Bonus
+
+https://github.com/user-attachments/assets/c2619a74-b0c0-4aaf-b1eb-502892b75e48
+
